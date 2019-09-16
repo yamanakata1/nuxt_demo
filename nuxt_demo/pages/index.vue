@@ -8,7 +8,7 @@
       xs12
       sm8
       md8
-      class="full-width"
+      class="full-width width-limited"
     >
       <v-carousel>
         <v-carousel-item
