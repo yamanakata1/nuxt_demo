@@ -9,3 +9,12 @@
   min-width: unset !important;
   flex: none !important;
 }
+.v-calendar-weekly__head > .v-calendar-weekly__head-weekday:nth-child(1) {
+  color: #F00 !important;
+}
+.v-calendar-weekly__head > .v-calendar-weekly__head-weekday:nth-child(n+2):nth-child(-n+6) {
+  color: #FFF !important;
+}
+.v-calendar-weekly__head > .v-calendar-weekly__head-weekday:nth-child(7) {
+  color: #00F !important;
+}
