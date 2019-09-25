@@ -87,6 +87,11 @@ export default {
           icon: 'mdi-calendar',
           title: 'Calendar',
           to: '/calendar'
+        },
+        {
+          icon: 'mdi-access-point',
+          title: 'TextArea',
+          to: '/textarea'
         }
       ],
       miniVariant: false,
