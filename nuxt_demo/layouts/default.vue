@@ -92,6 +92,11 @@ export default {
           icon: 'mdi-access-point',
           title: 'TextArea',
           to: '/textarea'
+        },
+        {
+          icon: 'mdi-alpha-l-circle-outline',
+          title: 'LazyLoad',
+          to: '/lazyload'
         }
       ],
       miniVariant: false,
